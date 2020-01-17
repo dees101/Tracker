@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">Tracker</string>
+    <string name="emailprompt">Send email ..</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="Repeat"> Repeat:</string>
+    <string name="emailhint">user@xyz.com</string>
+    <string name="emailhint">user@gmail.com</string>
+    
+    <string-array name="frequency_array">
+        <item>Never</item>
+        <item>Every half hour</item>
+        <item>Every hour</item>
+        <item>Once a day</item>
+       
+        
+     </string-array>
+</resources>
